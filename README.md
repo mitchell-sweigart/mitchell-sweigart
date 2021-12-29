@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitchell-sweigart
 - 👀 I’m interested in ...building consumer applications
-- 🌱 I’m currently learning ...computer sciences via codecademy
-- 💞️ I’m looking to collaborate on ...fun projects
+- 🌱 I’m currently learning ...computer science via codecademy
+- 💞️ I’m looking to collaborate on ...projects related to healthcare and insurance
 - 📫 How to reach me ... mitchell.lee.sweigart@gmail.com
 
 <!---
