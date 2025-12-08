@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @mitchell-sweigart
-- 💞️ I’m looking to collaborate on ...projects related to healthcare and insurance
-- 📫 How to reach me ... mitchell.lee.sweigart@gmail.com
+solving healthcare
 
 <!---
 mitchell-sweigart/mitchell-sweigart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
